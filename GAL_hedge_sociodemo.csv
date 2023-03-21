@@ -1,0 +1,47 @@
+speaker_ID,BNC_subset,wordcount,gender,age,age_group,YoB,area,social_grade
+PS040,1994,7451,male,38,35-44,1956,North England,working class
+PS10L,1994,2551,female,48,45-59,1946,Midlands,lower middle class
+PS13T,1994,1376,male,34,25-34,1960,London,skilled working class
+PS0S0,1994,5805,male,45,45-59,1949,Midlands,working class
+PS1DS,1994,2653,male,47,45-59,1947,Midlands,lower middle class
+PS04V,1994,10079,male,37,35-44,1957,London,skilled working class
+PS09V,1994,5772,male,41,35-44,1953,Midlands,lower middle class
+PS0MD,1994,3185,male,28,25-34,1966,Northern Ireland,lower middle class
+PS543,1994,1707,female,31,25-34,1963,North England,upper middle class
+PS0BK,1994,8516,female,21,15-24,1973,Southeast,working class
+PS1EN,1994,8802,female,54,45-59,1940,Wales,skilled working class
+PS0V5,1994,25529,female,35,35-44,1959,Southwest,lower middle class
+PS52F,1994,4530,female,16,15-24,1978,London,student
+PS1F2,1994,5959,female,65,60-74,1929,North England,lower middle class
+PS008,1994,4201,male,40,35-44,1954,Wales,upper middle class
+PS555,1994,29465,female,14,0-14,1980,London,student
+PS0JJ,1994,18680,female,30,25-34,1964,Midlands,unknown
+PS042,1994,1633,male,30,25-34,1964,London,upper middle class
+PS0X3,1994,1373,male,47,45-59,1947,Southwest,working class
+PS091,1994,6401,female,89,75-95,1905,London,upper middle class
+PS0U3,1994,1381,male,30,25-34,1964,Northern Ireland,lower middle class
+PS0PN,1994,36386,male,57,45-59,1937,Midlands,lower middle class
+PS1HH,1994,24165,male,53,45-59,1941,Northern Ireland,unknown
+PS1C1,1994,29030,female,41,35-44,1953,North England,student
+PS0GJ,1994,11671,female,20,15-24,1974,Southwest,unknown
+PS02E,1994,1625,female,29,25-34,1965,Southwest,working class
+PS03U,1994,1679,male,54,45-59,1940,London,lower middle class
+PS0J7,1994,5541,female,23,15-24,1971,North England,lower middle class
+PS0X2,1994,2463,male,20,15-24,1974,Southwest,unknown
+S0589,2014,49418,male,40,35-44,1974,Other,lower middle class
+S0598,2014,24183,female,18,15-24,1996,Southeast,student
+S0191,2014,1495,male,5,0-14,2009,Southeast,unknown
+S0655,2014,58086,male,9,0-14,2005,Southeast,unknown
+S0325,2014,44611,female,13,0-14,2001,Southeast,student
+S0422,2014,4372,female,39,35-44,1975,Other,unknown
+S0551,2014,4766,female,66,60-74,1948,North England,retired
+S0154,2014,15250,female,14,0-14,2000,Southeast,student
+S0400,2014,2497,male,22,15-24,1992,North England,lower middle class
+S0444,2014,30325,female,25,25-34,1989,North England,upper middle class
+S0430,2014,2500,male,27,25-34,1987,London,upper middle class
+S0321,2014,4480,female,33,25-34,1981,London,upper middle class
+S0523,2014,14705,male,61,60-74,1953,Other,retired
+S0511,2014,32820,female,43,35-44,1971,Other,upper middle class
+S0450,2014,22323,female,24,15-24,1990,Midlands,student
+S0324,2014,27785,female,14,0-14,2000,Southeast,student
+S0663,2014,16020,female,56,45-59,1958,Other,working class
